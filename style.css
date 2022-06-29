@@ -68,9 +68,10 @@
 .form-button
 {
     margin-top:15px;
+    border:1px solid #ff69b4;
     padding:5px 15px;
     color:#ff69b4;
-    border:1px solid #ff69b4;
+
 }
 .form-button:hover
 {
