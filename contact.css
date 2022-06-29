@@ -1,0 +1,36 @@
+.container iframe
+{
+    width: 100%;
+}
+.col div
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.col div .fa
+{
+    font-size: 28px;
+    color: #ff69b4;
+    margin: 10px;
+    margin-right: 30px;
+}
+.col div p
+{
+    padding: 0;
+}
+.col div h5
+{
+    margin-bottom: 5px;
+    color: #555555;
+    font-weight: 400;
+}
+.col input, .col textarea
+{
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 17px;
+    outline: none;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+}

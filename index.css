@@ -1,0 +1,27 @@
+.home
+{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(5,10,30,0.5), rgba(5,10,30,0.5)), url(images/mainbackground.png);
+    background-position: center;
+    background-size: cover;
+}
+.home-box
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);    
+    width: 80%;
+    text-align: center;
+}
+.home-box h1
+{
+    color:white
+}
+.home-box p
+{
+    margin: 10px 0px 40px;
+    color:white
+}

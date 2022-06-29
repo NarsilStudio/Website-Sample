@@ -1,0 +1,286 @@
+#Concentric-CSS-Overview 
+{
+    display:unset;
+    position:unset;
+    float:unset;
+    clear:unset;
+  
+    visibility:unset;
+    opacity:unset;
+    z-index:unset;
+  
+    margin:unset;
+    outline:unset;
+    border:unset;
+    background:unset;
+    padding:unset;
+  
+    width:unset;
+    height:unset;
+    overflow:unset;
+  
+    color:unset;
+    font:unset;
+}
+  
+#Concentric-CSS-Complete
+{
+    all:unset;
+    box-sizing:unset;
+  
+    /* Position */
+    display:unset;
+    position:unset;
+    top:unset;
+    right:unset;
+    bottom:unset;
+    left:unset;
+  
+    /* Float */
+    float:unset;
+    clear:unset;
+  
+    /* Flex */
+    flex:unset;
+    flex-basis:unset;
+    flex-direction:unset;
+    flex-flow:unset;
+    flex-grow:unset;
+    flex-shrink:unset;
+    flex-wrap:unset;
+  
+    /* Grid */
+    grid:unset;
+    grid-area:unset;
+    grid-template:unset;
+    grid-template-areas:unset;
+    grid-template-rows:unset;
+    grid-template-columns:unset;
+    grid-row:unset;
+    grid-row-start:unset;
+    grid-row-end:unset;
+    grid-column:unset;
+    grid-column-start:unset;
+    grid-column-end:unset;
+    grid-auto-rows:unset;
+    grid-auto-columns:unset;
+    grid-auto-flow:unset;
+    grid-gap:unset;
+    grid-row-gap:unset;
+    grid-column-gap:unset;
+  
+    /* Align-content */
+    align-content:unset;
+    align-items:unset;
+    align-self:unset;
+  
+    /* Justify-content */
+    justify-content:unset;
+    justify-items:unset;
+    justify-self:unset;
+  
+    /* Order */
+    order:unset;
+  
+    /* Column */
+    columns:unset;
+    column-gap:unset;
+    column-fill:unset;
+    column-rule:unset;
+    column-rule-width:unset;
+    column-rule-style:unset;
+    column-rule-color:unset;
+    column-span:unset;
+    column-count:unset;
+    column-width:unset;
+  
+    /* Transform */
+    backface-visibility:unset;
+    perspective:unset;
+    perspective-origin:unset;
+    transform:unset;
+    transform-origin:unset;
+    transform-style:unset;
+  
+    /* Transition */
+    transition:unset;
+    transition-delay:unset;
+    transition-duration:unset;
+    transition-property:unset;
+    transition-timing-function:unset;
+  
+    /* Visibility */
+    visibility:unset;
+    opacity:unset;
+    z-index:unset;
+  
+    /* Margin */
+    margin:unset;
+    margin-top:unset;
+    margin-right:unset;
+    margin-bottom:unset;
+    margin-left:unset;
+  
+    /* Outline */
+    outline:unset;
+    outline-offset:unset;
+    outline-width:unset;
+    outline-style:unset;
+    outline-color:unset;
+  
+    /* Border */
+    border:unset;
+    border-top:unset;
+    border-right:unset;
+    border-bottom:unset;
+    border-left:unset;
+    border-width:unset;
+    border-top-width:unset;
+    border-right-width:unset;
+    border-bottom-width:unset;
+    border-left-width:unset;
+  
+    /* Border-Style */
+    border-style:unset;
+    border-top-style:unset;
+    border-right-style:unset;
+    border-bottom-style:unset;
+    border-left-style:unset;
+  
+    /* Border-Radius */
+    border-radius:unset;
+    border-top-left-radius:unset;
+    border-top-right-radius:unset;
+    border-bottom-left-radius:unset;
+    border-bottom-right-radius:unset;
+  
+    /* Border-Color */
+    border-color:unset;
+    border-top-color:unset;
+    border-right-color:unset;
+    border-bottom-color:unset;
+    border-left-color:unset;
+  
+    /* Border-Image */
+    border-image:unset;
+    border-image-source:unset;
+    border-image-width:unset;
+    border-image-outset:unset;
+    border-image-repeat:unset;
+    border-image-slice:unset;
+  
+    /* Box-Shadow */
+    box-shadow:unset;
+  
+    /* Background */
+    background:unset;
+    background-attachment:unset;
+    background-clip:unset;
+    background-color:unset;
+    background-image:unset;
+    background-origin:unset;
+    background-position:unset;
+    background-repeat:unset;
+    background-size:unset;
+  
+    /* Cursor */
+    cursor:unset;
+  
+    /* Padding */
+    padding:unset;
+    padding-top:unset;
+    padding-right:unset;
+    padding-bottom:unset;
+    padding-left:unset;
+  
+    /* Width */
+    width:unset;
+    min-width:unset;
+    max-width:unset;
+  
+    /* Height */
+    height:unset;
+    min-height:unset;
+    max-height:unset;
+  
+    /* Overflow */
+    overflow:unset;
+    overflow-x:unset;
+    overflow-y:unset;
+    resize:unset;
+  
+    /* List-Style */
+    list-style:unset;
+    list-style-type:unset;
+    list-style-position:unset;
+    list-style-image:unset;
+    caption-side:unset;
+  
+    /* Table */
+    table-layout:unset;
+    border-collapse:unset;
+    border-spacing:unset;
+    empty-cells:unset;
+  
+    /* Animation */
+    animation:unset;
+    animation-name:unset;
+    animation-duration:unset;
+    animation-timing-function:unset;
+    animation-delay:unset;
+    animation-iteration-count:unset;
+    animation-direction:unset;
+    animation-fill-mode:unset;
+    animation-play-state:unset;
+  
+    /* Vertical Alignment */
+    vertical-align:unset;
+  
+    /* Text Alignment & Decoration */
+    direction:unset;
+    tab-size:unset;
+    text-align:unset;
+    text-align-last:unset;
+    text-justify:unset;
+    text-indent:unset;
+    text-transform:unset;
+    text-decoration:unset;
+    text-decoration-color:unset;
+    text-decoration-line:unset;
+    text-decoration-style:unset;
+    text-rendering:unset;
+    text-shadow:unset;
+    text-overflow:unset;
+  
+    /* Text Spacing */
+    line-height:unset;
+    word-spacing:unset;
+    letter-spacing:unset;
+    white-space:unset;
+    word-break:unset;
+    word-wrap:unset;
+    color:unset;
+  
+    /* Font */
+    font:unset;
+    font-family:unset;
+    font-size:unset;
+    font-size-adjust:unset;
+    font-stretch:unset;
+    font-weight:unset;
+    font-variant:unset;
+    font-style:unset;
+  
+    /* Content */
+    content:unset;
+    quotes:unset;
+  
+    /* Counter */
+    counter-reset:unset;
+    counter-increment:unset;
+  
+    /* Break */
+    page-break-before:unset;
+    page-break-after:unset;
+    page-break-inside:unset;
+}
