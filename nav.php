@@ -33,6 +33,13 @@
                         echo "<li><a href=logout.php>LOG OUT</a></li>";
                     }
                 ?>
+                <li>
+                    <select name="language" class="icon-menu">
+	                    <option value="EN" selected>English</option>
+	                    <option value="FR">French</option>
+                        <option value="GE">German</option>
+                    </select>
+                </li>
             </ul>
         </div>
         <i class="fa fa-bars" onclick="showmenu()"></i>
