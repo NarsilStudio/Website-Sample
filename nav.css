@@ -18,8 +18,9 @@ nav
     transform:translate(-50%, 0%);    
     width:80%;
 }
-nav h3
-{    
+nav a
+{
+    text-decoration:none;    
     color:#ff69b4;
 }
 .nav-links

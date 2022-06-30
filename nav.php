@@ -5,7 +5,7 @@
     <!-----Navigation----->                
     <nav>
         <!-----Website Icon----->
-        <h3 class="h3-text">PUMA</h6>
+        <a href="index.php" class="h3-text">PUMA</a>
         <!-----Website Menu----->
         <div class ="nav-links" id="navLinks">
             <i class="fa fa-times" onclick="hidemenu()"></i>
@@ -33,6 +33,7 @@
                         echo "<li><a href=logout.php>LOG OUT</a></li>";
                     }
                 ?>
+                <!-----Language----->
                 <li>
                     <select name="language" class="icon-menu">
 	                    <option value="EN" selected>English</option>
